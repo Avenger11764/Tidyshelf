@@ -2,7 +2,7 @@
 <h1 align="center">TidyShelf</h1>
 <p align="center">Old files, neatly shelved — a Windows app that moves old screenshots and downloads into a tidy local archive you can always restore from.</p>
 <p align="center">
-  <a href="https://apps.microsoft.com/search?query=TidyShelf">Microsoft Store</a> ·
+  <a href="https://apps.microsoft.com/detail/9N570LV3WMT7">Microsoft Store</a> ·
   <a href="https://tidyshelf.vercel.app">Website</a> ·
   <a href="https://github.com/Avenger11764/Tidyshelf/issues/new/choose">Report a bug or suggest a feature</a> ·
   <a href="https://tidyshelf.vercel.app/privacy">Privacy</a>
