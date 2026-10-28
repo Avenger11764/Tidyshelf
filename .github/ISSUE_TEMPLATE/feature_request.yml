@@ -1,0 +1,41 @@
+name: Feature request
+description: Suggest an idea to make TidyShelf more useful.
+title: "[Idea]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks! Ideas with a real example ("every week I…") are the easiest to build well. If someone already suggested it, add a 👍 there instead.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The situation or annoyance behind the idea.
+      placeholder: "My Downloads folder fills with meeting recordings that I only need for a week…"
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like TidyShelf to do?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: How do you handle this today?
+  - type: dropdown
+    id: importance
+    attributes:
+      label: How much would this help you?
+      options:
+        - Nice to have
+        - I'd use it every week
+        - It's the reason I'd use (or buy) TidyShelf
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and this hasn't been suggested.
+          required: true

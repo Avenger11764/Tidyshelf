@@ -1,0 +1,15 @@
+name: Question
+description: Ask how something in TidyShelf works.
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: TidyShelf version (if relevant)

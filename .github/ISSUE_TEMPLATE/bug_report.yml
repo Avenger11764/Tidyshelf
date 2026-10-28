@@ -1,0 +1,93 @@
+name: Bug report
+description: Something in TidyShelf isn't working as expected.
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. **Issues are public** — please don't include personal information, full file paths, or logs with file names.
+        To attach logs privately, use **Support → Report a problem** in the app instead.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+      placeholder: "I pressed Scan on my D: archive and the window stopped responding for about a minute…"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open Settings → Folders
+        2. Add a folder on a USB drive
+        3. Press Scan
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which part of TidyShelf?
+      options:
+        - Scan / Preview
+        - Archiving
+        - Restore / Undo / History
+        - Archive search or screenshot text
+        - Space report / Duplicates
+        - Download sorting
+        - Schedules / tray (Pro)
+        - Custom rules (Pro)
+        - Buying or restoring Pro
+        - Updates / What's new
+        - Settings / Startup
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: TidyShelf version
+      description: Shown at the top of the Support page.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows version
+      options:
+        - Windows 11
+        - Windows 10
+    validations:
+      required: true
+  - type: dropdown
+    id: edition
+    attributes:
+      label: Free or Pro?
+      options:
+        - Free
+        - Pro
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often does it happen?
+      options:
+        - Every time
+        - Sometimes
+        - Happened once
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or anything else
+      description: Drag images here. Please crop out personal information.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and this hasn't been reported.
+          required: true
+        - label: I removed personal information from this report.
+          required: true
