@@ -3,9 +3,9 @@
 <p align="center">Old files, neatly shelved — a Windows app that moves old screenshots and downloads into a tidy local archive you can always restore from.</p>
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9N570LV3WMT7">Microsoft Store</a> ·
-  <a href="https://tidyshelf.vercel.app">Website</a> ·
+  <a href="https://tidy-shelf-official.vercel.app">Website</a> ·
   <a href="https://github.com/Avenger11764/Tidyshelf/issues/new/choose">Report a bug or suggest a feature</a> ·
-  <a href="https://tidyshelf.vercel.app/privacy">Privacy</a>
+  <a href="https://tidy-shelf-official.vercel.app/privacy">Privacy</a>
 </p>
 
 <p align="center"><img src="docs/home.webp" width="820" alt="TidyShelf home screen"></p>
@@ -31,7 +31,7 @@ This repository is the **public home for TidyShelf support**: bug reports, featu
 |---|---|
 | Report a bug | **In the app:** Support → *Report a problem*. It can attach logs privately. **Or here:** [open a bug report](https://github.com/Avenger11764/Tidyshelf/issues/new?template=bug_report.yml) |
 | Suggest a feature | [Open a feature request](https://github.com/Avenger11764/Tidyshelf/issues/new?template=feature_request.yml), or 👍 an existing one |
-| Ask a question | Check the [FAQ](https://tidyshelf.vercel.app/#faq), then [contact support](https://tidyshelf.vercel.app/contact) |
+| Ask a question | Check the [FAQ](https://tidy-shelf-official.vercel.app/#faq), then [contact support](https://tidy-shelf-official.vercel.app/contact) |
 | Get Pro back on a new PC | TidyShelf → Support → **Restore purchases** (same Microsoft account) |
 | Report a security issue | See [SECURITY.md](SECURITY.md). Please don't open a public issue |
 

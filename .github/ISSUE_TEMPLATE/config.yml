@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: Report a problem privately (with logs)
-    url: https://tidyshelf.vercel.app/contact
+    url: https://tidy-shelf-official.vercel.app/contact
     about: Best for problems involving your files or logs — in the app, use Support → Report a problem.
   - name: Security issue
     url: https://github.com/Avenger11764/Tidyshelf/security/policy
     about: Please report security problems privately.
   - name: FAQ
-    url: https://tidyshelf.vercel.app/#faq
+    url: https://tidy-shelf-official.vercel.app/#faq
     about: Common questions about archiving, restoring and Pro.
