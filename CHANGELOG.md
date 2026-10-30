@@ -2,6 +2,13 @@
 
 Each version here is published as a GitHub release (tag `vX.Y.Z`). TidyShelf reads the latest release to tell you about updates.
 
+## 1.0.3 — October 2026
+
+- TidyShelf now starts quietly in the notification area when you sign in (turn it off in Settings › Startup)
+- If Windows doesn't let TidyShelf change start-at-sign-in, a button takes you straight to Windows Startup settings
+- Faster archive thumbnails
+- Small fixes and improvements
+
 ## 1.0.2 — October 2026
 
 - Much smoother: scanning and checking folders no longer freezes the window
