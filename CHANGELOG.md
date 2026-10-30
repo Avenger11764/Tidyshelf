@@ -2,6 +2,16 @@
 
 Each version here is published as a GitHub release (tag `vX.Y.Z`). TidyShelf reads the latest release to tell you about updates.
 
+## 1.0.4 — October 2026
+
+- A fresh, simpler design with four clear sections: Tidy up, Archive, Storage and Settings.
+- Tidy up shows your routine — set folders, set a time, scan, tidy, repeat — and how many old files are ready.
+- See your shelves: one shelf per type, with tidied files on it and the ones waiting to be tidied. Click a shelf to open just those files.
+- Choose which file types each folder checks — for example, switch on documents (PDF, DOCX, TXT) for a downloads folder.
+- Archive now includes Activity & undo; Settings has simple tabs for folders, automatic tidying, rules, archive, app, Pro and help.
+- Dark mode is readable again when Windows itself is set to Light mode.
+- New installs watch your Pictures folder for screenshots.
+
 ## 1.0.3 — October 2026
 
 - TidyShelf now starts quietly in the notification area when you sign in (turn it off in Settings › Startup)
