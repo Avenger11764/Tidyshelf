@@ -2,6 +2,13 @@
 
 Each version here is published as a GitHub release (tag `vX.Y.Z`). TidyShelf reads the latest release to tell you about updates.
 
+## 1.0.5 — October 2026
+
+- Delete files you don’t need — one or many — straight to the Recycle Bin, from Review or Archive.
+- Click any file in Review or Archive to see it right on screen, without scrolling.
+- A clear confirmation before anything is deleted, and files that changed since the scan are always left alone.
+- Rate TidyShelf on the Microsoft Store from Settings → Help — and, once in a while, a friendly reminder (never more than once a month, and never again once you answer).
+
 ## 1.0.4 — October 2026
 
 - A fresh, simpler design with four clear sections: Tidy up, Archive, Storage and Settings.
