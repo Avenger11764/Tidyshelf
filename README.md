@@ -14,7 +14,7 @@ This repository is the **public home for TidyShelf support**: bug reports, featu
 
 ## What TidyShelf does
 
-**Latest release: [TidyShelf 1.0.4](https://github.com/Avenger11764/Tidyshelf/releases/tag/v1.0.4)** — a simpler four-section design, file-type shelves, per-folder file-type choices and readability improvements. [Get the update from Microsoft Store](https://apps.microsoft.com/detail/9N570LV3WMT7).
+**Latest release: [TidyShelf 1.0.5](https://github.com/Avenger11764/Tidyshelf/releases/tag/v1.0.5)** — send unwanted files to the Recycle Bin from Review or Archive, preview files without scrolling, and rate the app from Settings → Help. [Get the update from Microsoft Store](https://apps.microsoft.com/detail/9N570LV3WMT7).
 
 - **Preview, then archive** old screenshots, installers, zips, documents and videos from Desktop, Downloads, Screenshots and your own folders.
 - **Restore anything** to its original place, or **undo a whole run** from History.
